@@ -8,8 +8,8 @@
     margin-left: 5%;
 }
 .main-page-foto img {
-    height: 550px;
-    width: 750px;
+    height: 500px;
+    width: 700px;
 }
 .main-page-info {
     width: 45%;
@@ -17,10 +17,7 @@
     margin: 7%;
 }
 .main-page-foto {
-    width: 40%;
-    margin-top: 3%;
-    margin-left: 3%;
-    margin-right: 3%;
+    margin: 3% 9% 3% 3%;
 }
 .main-page-interface {
     display: flex;
